@@ -56,13 +56,13 @@ For more information please click the link below.
 
 Source of Picture:Wikipedia
 
-1. Cricket Ball
+2. Cricket Ball
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/A_Cricket_ball.jpg/800px-A_Cricket_ball.jpg)
 
 Source of Picture:Wikipedia
 
-1. Wickets
+3. Wickets
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Wicket.jpg)
 
