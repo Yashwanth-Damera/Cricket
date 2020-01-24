@@ -7,6 +7,10 @@ Cricket is a game where 2 teams will play one against another.
 
 The International Cricket Council (ICC) is the global governing body of cricket. It was founded as the Imperial Cricket Conference in 1909 by representatives from Australia, England and South Africa. The ICC has 104 members 12 Full Members that play Test matches and 92 Associate Members.
 
+For more information please click the link below.
+
+[ICC](https://en.wikipedia.org/wiki/International_Cricket_Council) ((Source:Wikipedia))
+
 **Full Members** The twelve governing bodies of teams that have full voting rights within the International Cricket Council.
 
 1. India
@@ -50,19 +54,19 @@ For more information please click the link below.
 (T20)[https://en.wikipedia.org/wiki/Twenty20] (Source:Wikipedia)
 
 ##  What do you need to play cricket? 
-1. Cricket Bat
+- Cricket Bat
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/A_modern_Cricket_bat_%28back_view%29.jpg/800px-A_modern_Cricket_bat_%28back_view%29.jpg)
 
 Source of Picture:Wikipedia
 
-2. Cricket Ball
+- Cricket Ball
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/A_Cricket_ball.jpg/800px-A_Cricket_ball.jpg)
 
 Source of Picture:Wikipedia
 
-3. Wickets
+- Wickets
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Wicket.jpg)
 
