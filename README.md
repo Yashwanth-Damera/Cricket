@@ -23,6 +23,11 @@ These are the basic eqipment required to play cricket.
 
 ##What are rules to play cricket?
 
+Cricket is a game played between two teams.
+
+-Each team is made up of 11 players.
+-The bowler must bowl 6 legal deliveries to constitute an over.
+
 
 
 
