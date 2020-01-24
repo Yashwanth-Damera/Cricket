@@ -9,13 +9,22 @@ At present there are 3 types of formats in International cricket
 - ODI(One Day International)
 - T20
 
-### Test
-Test format is played in innings.It consists of four innings or 5 days of game.Test matches are considered as highest standard of game,played between two teams who has test status.
-For more information please click on below link
-[Test Cricket](https://en.wikipedia.org/wiki/Test_cricket)
+##### **Test:**
+Test format is played in innings.It consists of four innings and it goes for 5 days.Test matches are considered as highest standard of game,played between two teams who has test status.
 
-### ODI
-One Day International game consists of 100 overs where each team will bat for 50 overs.
+For more information please click on below link
+
+[Test Cricket](https://en.wikipedia.org/wiki/Test_cricket) (Source:Wikipedia)
+
+##### **ODI:**
+One Day International game is limited overs format,played between two teams, in which each team faces 50 overs. Cricket World Cup generally held forevery four years.The first ODI was played on 5th January 1971 between Australia and England.
+
+For more information please click below link.
+
+[ODI](https://en.wikipedia.org/wiki/One_Day_International) (Source:Wikipedia)
+
+##### **T20:**
+
 
 ##  What do you need to play cricket? 
 1. Cricket Bat
@@ -38,7 +47,7 @@ Source of Picture:Wikipedia
 
 These are the basic eqipment required to play cricket.
 
-##What are rules to play cricket?
+## What are rules to play cricket?
 
 Cricket is a game played between two teams.
 
