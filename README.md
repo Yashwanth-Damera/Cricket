@@ -13,7 +13,7 @@ For more information please click the link below.
 
 Official Logo of ICC
 
-![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjvpOS6qZ3nAhUMd6wKHV4bBSkQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternational_Cricket_Council&psig=AOvVaw1Qjs_6j2P_LOx6SDYj5THc&ust=1579992652257453)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/International_Cricket_Council_%28logo%29.svg/800px-International_Cricket_Council_%28logo%29.svg.png)
 
 **Full Members** The twelve governing bodies of teams that have full voting rights within the International Cricket Council.
 
@@ -60,13 +60,13 @@ For more information please click the link below.
 ##  What do you need to play cricket? 
 - Cricket Bat
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/A_modern_Cricket_bat_%28back_view%29.jpg/800px-A_modern_Cricket_bat_%28back_view%29.jpg)
+![](https://images-na.ssl-images-amazon.com/images/I/517nX1378LL._SX425_.jpg)
 
 Source of Picture:Wikipedia
 
 - Cricket Ball
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/A_Cricket_ball.jpg/800px-A_Cricket_ball.jpg)
+![](https://www.cricketequipmentusa.com/content/images/thumbs/0001196_cricket-balls-six-pack-of-revolution-grade-a-by-cricket-equipment-usa-white-red_550.gif)
 
 Source of Picture:Wikipedia
 
