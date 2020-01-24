@@ -1,4 +1,4 @@
-#  Cricket 
+# The  Cricket Game
 ## What is Cricket?
 
 Cricket is a game where 2 teams will play one against another.
