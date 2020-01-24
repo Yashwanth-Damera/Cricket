@@ -11,6 +11,10 @@ For more information please click the link below.
 
 [ICC](https://en.wikipedia.org/wiki/International_Cricket_Council) ((Source:Wikipedia))
 
+Official Logo of ICC
+
+![](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjvpOS6qZ3nAhUMd6wKHV4bBSkQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInternational_Cricket_Council&psig=AOvVaw1Qjs_6j2P_LOx6SDYj5THc&ust=1579992652257453)
+
 **Full Members** The twelve governing bodies of teams that have full voting rights within the International Cricket Council.
 
 1. India
