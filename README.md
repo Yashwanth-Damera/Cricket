@@ -52,7 +52,8 @@ One Day International game is limited overs format,played between two teams, in 
 
 For more information please click the link below.
 
-[ODI](https://en.wikipedia.org/wiki/One_Day_International) 
+[ODI](https://en.wikipedia.org/wiki/One_Day_International)
+
 (Source:Wikipedia)
 
 ##### **T20:**
