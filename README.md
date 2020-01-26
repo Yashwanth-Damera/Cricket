@@ -90,8 +90,8 @@ These are the basic equipment required to play cricket.
 
 Cricket is a game played between two teams.
 
-- Each team is made up of 11 players.
-- The bowler must bowl 6 legal deliveries to constitute an over.
+1. Each team is made up of 11 players.
+1. The bowler must bowl 6 legal deliveries to constitute an over.
 
 
 
